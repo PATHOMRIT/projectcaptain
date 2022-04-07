@@ -4,7 +4,7 @@ class DataCake{
   static List<InfoCake> Cake = [
     InfoCake(
         id_cake: '1',
-        image: 'assets/images_cake/cake1.jpg',
+        image: 'assets/images_cake/Cake1.jpg',
         title: 'เค้กช็อกโกแลตหน้าแตก สูตรนึ่ง',
         component: [
             'แป้งเค้ก 150 กรัม',
@@ -28,7 +28,7 @@ class DataCake{
     ),
     InfoCake(
       id_cake: '2',
-      image: 'assets/images_cake/Cake2.jpg',
+      image: 'assets/images_cake/cake2.jpg',
       title: 'เค้กช็อกโกแลตไร้แป้ง',
       component: [
         'กล้วยหอม 1 ลูก',
